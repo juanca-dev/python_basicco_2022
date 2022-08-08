@@ -1,5 +1,8 @@
 
 myString = "Holap mi,bebe"
+myStr = "Fazt"
+print("My names is " + myStr)
+print(f"My names is {myStr}")
 
 # print(dir(myString))
 
@@ -20,4 +23,4 @@ myString = "Holap mi,bebe"
 # print(myString.isnumeric())
 # print(myString.isalpha())
 
-print(myString[4])
+# print(myString[4])

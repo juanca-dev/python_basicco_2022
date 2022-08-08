@@ -5,7 +5,7 @@
 
 # print(name)
 
-#convetiones
+#conventiones
 book_name = "I love" #Sanake Case 
 bookName = "Php book" #Camel case
 BookName = "asafdsgdsgsg" #Pascal Case

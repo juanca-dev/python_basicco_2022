@@ -30,3 +30,4 @@ print(type({
     "nickname": "juanca"
 
 }))
+None
