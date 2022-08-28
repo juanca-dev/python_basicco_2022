@@ -34,7 +34,7 @@ numbers_list = list((1, 2, 3, 4))
 
 # Metodo append para agregar elementos
 
-colors.append('violet')
+colors.extend(['violet','yelot'])
 print(colors)
 
 
