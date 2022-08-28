@@ -34,8 +34,10 @@ numbers_list = list((1, 2, 3, 4))
 
 # Metodo append para agregar elementos
 
-colors.append('violet')
-print(colors)
 
+colors.extend(['violet','yelot'])
+colors.extend(['green','black'])
+colors.extend(['red','skip'])
+print(colors)
 
 
